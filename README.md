@@ -1,8 +1,16 @@
 # PythonFutebol
 
 # Arquivo Coordenadas.Py
-Este arquivo recebe as coordenadas em latitude e longitude dos estádios dos times participantes do Campeonato Brasileiro Série A 2024 e 2025.
-Em seguida, é gerado uma planilha no excel com a distância linear entre a localização de cada estádio.
+Entrada: Este arquivo recebe as coordenadas em latitude e longitude dos estádios dos times participantes do Campeonato Brasileiro Série A 2024 e 2025.
+Saída: Em seguida, é gerado uma planilha no excel com a distância linear entre os 20 estádios participantes do torneio.
+
+# Arquivo Mapa2024.Py
+Entrada: Este arquivo recebe as latitudes e longitudes dos estádios dos times participantes do Campeonato Brasileiro Série A 2024.
+Saída: É gerado um mapa com o posicionamento dos estádios em um mapa, além do ponto médio em vermelho para mostrar a descentralização do eixo sul-sudeste.
+
+# Arquivo Mapa2025.Py
+Entrada: Este arquivo recebe as latitudes e longitudes dos estádios dos times participantes do Campeonato Brasileiro Série A 2025.
+Saída: É gerado um mapa com o posicionamento dos estádios em um mapa, além do ponto médio em vermelho para mostrar a descentralização do eixo sul-sudeste.
 
 # Dados dos times participantes Série A 2024
 
